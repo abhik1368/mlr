@@ -69,6 +69,7 @@ Suggests:
     flare,
     fields,
     FNN,
+    fpc,
     frbs,
     FSelector,
     gbm,
